@@ -25,6 +25,3 @@ Contributions are welcome! If you have additional XSS payloads or improvements, 
 ## Social Media
 
 You can follow me on social media:
-- Medium: [@el-cezeri](https://medium.com/@el-cezeri)
-- LinkedIn: [Samet Yiğit](https://www.linkedin.com/in/yiqitsamet/)
-- X: [@xelcezeri](https://x.com/xelcezeri)
